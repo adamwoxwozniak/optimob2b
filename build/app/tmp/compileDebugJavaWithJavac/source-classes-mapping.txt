@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/optimob2b/BuildConfig.java
+ com.example.optimob2b.BuildConfig

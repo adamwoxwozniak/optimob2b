@@ -1,0 +1,4 @@
+#Thu Jan 27 14:54:16 CET 2022
+base.0=D\:\\PROJEKTY\\TRON\\optimob2b\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
